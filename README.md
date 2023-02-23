@@ -1,2 +1,0 @@
-# Coding_Journey
-Beginner
